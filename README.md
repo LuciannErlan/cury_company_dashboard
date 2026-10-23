@@ -1,9 +1,12 @@
 # 🍛 Cury Company — Growth Dashboard (Marketplace)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://curycompanydashboard-muwmr5qgrlyr8cycpwi8g8.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
+
+> 🔗 **Acesse o Dashboard interativo online:** **[Clique aqui para abrir no Streamlit Cloud](https://curycompanydashboard-muwmr5qgrlyr8cycpwi8g8.streamlit.app/)**
 
 ---
 
@@ -68,7 +71,15 @@ O painel estratégico foi planejado utilizando o **Método SAPE (Saída, Process
 
 ---
 
-## 5. Tecnologias e Ferramentas Utilizadas
+## 5. Produto Final do Projeto
+
+Painel online interativo hospedado gratuitamente no **Streamlit Community Cloud** e acessível por qualquer navegador ou dispositivo móvel:
+
+* 🌐 **Link de acesso:** https://curycompanydashboard-muwmr5qgrlyr8cycpwi8g8.streamlit.app/
+
+---
+
+## 6. Tecnologias e Ferramentas Utilizadas
 
 * **Linguagem:** Python 3
 * **Manipulação e Limpeza de Dados (ETL):** `pandas`, `numpy`, `haversine`
@@ -78,7 +89,7 @@ O painel estratégico foi planejado utilizando o **Método SAPE (Saída, Process
 
 ---
 
-## 6. Estrutura do Repositório
+## 7. Estrutura do Repositório
 
 ```text
 ├── base de dados/
@@ -94,7 +105,7 @@ O painel estratégico foi planejado utilizando o **Método SAPE (Saída, Process
 
 ---
 
-## 7. Como Executar o Projeto Localmente
+## 8. Como Executar o Projeto Localmente
 
 1. Clone este repositório:
    ```bash
@@ -112,6 +123,6 @@ O painel estratégico foi planejado utilizando o **Método SAPE (Saída, Process
 
 ---
 
-## 8. Autor
+## 9. Autor
 
 Desenvolvido por **Luciann Erlan** durante a formação em Ciência e Análise de Dados da **Comunidade DS**.
