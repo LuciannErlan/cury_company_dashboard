@@ -1,0 +1,20 @@
+# Ambientes virtuais e caches do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Arquivos de estudo local (não vão para o repositório do Dashboard na nuvem)
+base de dados/.py
+base de dados/Sample_Submission.csv
+base de dados/test.csv
+primeiros_comandos.py
+transformando_dados.py
+perguntas_negocio.py
+perguntas_agrupamento.py
+projeto_analise_dados.py
+aula_funcoes.py
+visao_empresa.py
+visao_entregadores.py
+visao_restaurantes.py

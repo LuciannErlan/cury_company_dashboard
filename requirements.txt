@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+plotly
+folium
+streamlit-folium
+haversine
+pillow
+ipykernel
